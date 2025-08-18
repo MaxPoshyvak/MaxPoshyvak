@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Maksym 👋
 
-<!--
-**MaxPoshyvak/MaxPoshyvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Trainee Full-Stack Developer with a passion for building modern and user-friendly web applications.  
+Currently, I study Software Engineering in college and have also been learning at an IT school for 2 years.  
 
-Here are some ideas to get you started:
+My main focus is **Front-End development** with React, Tailwind CSS, and SCSS.  
+I also have experience working with **Node.js, Express** and enjoy exploring topics like parsing and full-stack development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am constantly improving my skills and looking for opportunities to apply them in real projects, collaborate with other developers, and grow as a professional.
+
+---
+
+## 🔧 Tech Stack
+- Front-End: React, Tailwind CSS, SCSS  
+- Back-End: Node.js, Express  
+- Other: Git, REST API, parsing  
+
+---
+
+## 📫 Contact
+- Email: kvsam7395@gmail.com   
+- Telegram: @Poshyvak_max
