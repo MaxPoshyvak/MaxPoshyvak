@@ -18,9 +18,9 @@ I am constantly improving my skills and looking for opportunities to apply them 
 ---
 
 ## 📈 GitHub Stats
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxPoshyvak&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPoshyvak&layout=compact)
 
 ---
 
