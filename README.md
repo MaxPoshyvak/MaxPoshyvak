@@ -47,5 +47,5 @@ I am constantly improving my skills and looking for opportunities to apply them 
 ---
 
 ## 📫 Contact
-- Email: kvsam7395@gmail.com   
+- Email: max.poshyvak.dev@gmail.com   
 - Telegram: @Poshyvak_max
