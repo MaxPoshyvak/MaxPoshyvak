@@ -68,7 +68,7 @@
 
 <ul>
   <li>💡 I create atmospheric frontend projects, love animations and clean design.</li>
-  <li>🧠 I code in JavaScript, React, Node.js, Tailwind CSS, and SCSS.</li>
+  <li>🧠 I code in TypeScript, Next.js, Node.js, Tailwind CSS, and SCSS.</li>
   <li>🎮 Gamer and fan of games like The Last of Us, S.T.A.L.K.E.R., and Red Dead Redemption.</li>
   <li>📚 Always learning and leveling up my skills through real projects.</li>
 </ul>
